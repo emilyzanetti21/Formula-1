@@ -10,7 +10,7 @@
     	 </style>
     </head>
     <body>
-    	<h1 style="text-align: center">Aposentadoria Sbastian Vettel</h1>
+    	<h1 style="text-align: center">Aposentadoria Sebastian Vettel</h1>
 
         <p>Neste último mês o piloto de fórmula 1<strong>Sebastian Vettel</strong>anuncia a aposentadoria.</p>
 
